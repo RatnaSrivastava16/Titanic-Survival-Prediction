@@ -64,17 +64,7 @@ input.shape
 
 df.describe()
 
-# from sklearn.preprocessing import StandardScaler
-# sc = StandardScaler()
-# dataset_std=sc.fit_transform(df)
-# dataset_std=pd.DataFrame(dataset_std)
-# print(dataset_std.describe())
 
-# dataset_std.head()
-
-# target=dataset_std[0]
-# input=dataset_std.drop(columns=[0])
-# input.shape
 
 target.shape
 
